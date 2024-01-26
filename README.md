@@ -6,15 +6,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florentgashi&show_icons=true&locale=en" alt="florentgashi" /></p>
 
-
-- 🔭 I’m currently working on **AI Projects with most of my Client's.**
-
-- 👨‍💻 All of my projects are available at [www.intrioxa.com](www.intrioxa.com)
-
-- 💬 Ask me about **react, vue.**
-
-- 📫 How to reach me **florent@intrioxa.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/florent-gashi-401b5424b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/florent-gashi-401b5424b/" height="30" width="40" /></a>
