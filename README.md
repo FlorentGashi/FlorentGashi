@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FlorentGashi</h1>
-<h3 align="center">A passionate frontend developer from Kosovo</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=florentgashi&show_icons=true&locale=en&layout=compact" alt="florentgashi" /></p>
