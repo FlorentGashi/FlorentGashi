@@ -36,7 +36,9 @@ while(engineer.isCoding()) {
 }
 ```
 
-<img alt="My Github streak" align="center" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=FlorentGashi&theme=default&background=ffffff&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=333333&sideNums=333333&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=333333" />
+<div align="center">
+  <img alt="My Github streak" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=FlorentGashi&theme=default&background=ffffff&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=333333&sideNums=333333&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=333333" />
+</div>
 
 <p align="center">
   <strong>Building the future of software, one automation at a time</strong>
